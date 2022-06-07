@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Colour List</string>
+
+    <string name="position">Enter a position</string>
+    <string name="newcolour">Enter new colour</string>
+
+    <string name="btnAddColour">Add a new colour</string>
+    <string name="btnRemoveColour">Remove a colour</string>
+    <string name="btnUpdateColour">Update a colour</string>
+
+</resources>
